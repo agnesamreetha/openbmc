@@ -93,6 +93,8 @@ cases.
 [Issues](https://github.com/openbmc/openbmc/issues) are managed on
 GitHub.  It is recommended you search through the issues before opening
 a new one.
+The details about how to report a security vulnerability can be found [here](https://github.com/openbmc/docs/blob/master/security/how-to-report-a-security-vulnerability.md).
+Refer [security working group](https://github.com/openbmc/openbmc/wiki/Security-working-group) to discuss confidential OpenBMC security topics.
 
 ## Features of OpenBMC
 
